@@ -1,4 +1,5 @@
 <h1> LinkedIn Homepage <h1>
+  Web application made using ReactJS, incorporating HTML and CSS (styled components)
   
 ![Screenshot 2022-08-14 at 5 30 01 PM](https://user-images.githubusercontent.com/71420919/184531147-a190f548-cca4-4f03-a0cf-a3c64246b23b.png)
   
@@ -14,7 +15,9 @@
 ![Screenshot 2022-08-14 at 5 31 23 PM](https://user-images.githubusercontent.com/71420919/184531153-972017e7-19bc-4737-a8ec-8490fedcd26c.png)
  
 <h2> LinkedIn Join Now page <h2>
+  
 ![Screenshot 2022-08-14 at 5 31 11 PM](https://user-images.githubusercontent.com/71420919/184531154-c5dca235-3207-4178-85ea-d509569aa08e.png)
   
 <h2> LinkedIn Forgot password page <h2>
+  
 ![Screenshot 2022-08-14 at 5 30 51 PM](https://user-images.githubusercontent.com/71420919/184531156-f13b44d5-2885-4cc8-b1cb-3ba15b6a8d86.png)
