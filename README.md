@@ -1,5 +1,5 @@
 <h1> LinkedIn Homepage <h1>
-  Web application made using ReactJS, incorporating HTML and CSS (styled components)
+  <p>Web application made using ReactJS, incorporating HTML and CSS (styled components)<p>
   
 ![Screenshot 2022-08-14 at 5 30 01 PM](https://user-images.githubusercontent.com/71420919/184531147-a190f548-cca4-4f03-a0cf-a3c64246b23b.png)
   
