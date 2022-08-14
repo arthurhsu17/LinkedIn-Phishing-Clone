@@ -1,4 +1,4 @@
-#LinkedIn phishing application
+# LinkedIn phishing application
 All buttons seen are clickable and interactable, entering information into input boxes and clicking "Join", "Sign in" will result in data being stored into external Firebase database, for the sake of honesty the password is not stored, but rather only the length of the password. Upon clicking sign in or join, the user will be redirected to linkedin.com/feed, thus to the untrained eye would not suspect of any fradulent or malicious activity.
 
 ##LinkedIn Homepage
