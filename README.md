@@ -14,7 +14,7 @@ Upon clicking sign in or join, the user will be redirected to linkedin.com/feed,
   
 ![signingif](https://user-images.githubusercontent.com/71420919/184531158-3bc1674a-eb0b-4aad-8bdd-b12a918093f4.gif)
 
-
+Example format of how the data is stored in firebase, consisting of email, password length and from which screen it was caught on
 <img width="416" alt="Screenshot 2022-08-14 at 5 47 03 PM" src="https://user-images.githubusercontent.com/71420919/184531531-a52030dd-5079-4313-95d3-aaec3099df9d.png">
 
 ## LinkedIn Sign in page
